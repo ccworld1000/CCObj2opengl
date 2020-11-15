@@ -33,9 +33,8 @@ CC #
 
 ### Test OBJ file
 
-![CCTestObj.png](https://raw.github.com/ccworld1000/CCObj2opengl/master/CCTestObj.png)
+![CCTestObj.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCTestObj.png)
 
 ### Test OBJ file run iPhone
 
-![CCCTestRun.png](https://raw.github.com/ccworld1000/CCObj2opengl/master/CCTestRun.png)
-
+![CCCTestRun.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCTestRun.png)
