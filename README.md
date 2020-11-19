@@ -12,8 +12,6 @@ obj2opengl -->It will not be updated for a long time. This script will be slight
 CC # ls
 CCObj2opengl.pl	CCTest.obj	CCTestObj.png	CCTestRun.png	LICENSE		README.md
 CC # ./CCObj2opengl.pl CCTest.obj
-defined(@array) is deprecated at ./CCObj2opengl.pl line 156.
-	(Maybe you should just omit the defined()?)
 Input file     : ./CCTest.obj
 Output file    : ./CCTest.h
 Object name    : CCTest
@@ -35,6 +33,15 @@ CC #
 
 ![CCTestObj.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCTestObj.png)
 
+
+
+![CCSphere1.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCSphere1.png)
+
+
+
 ### Test OBJ file run iPhone
 
 ![CCCTestRun.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCTestRun.png)
+
+![CCSphere2.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCSphere2.png)
+

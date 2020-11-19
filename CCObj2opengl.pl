@@ -153,7 +153,7 @@ sub handleArguments() {
 		@center = (0, 0, 0);
 	}
 
-	if(defined(@center)) {
+	if(@center) {
 		$xcen = $center[0];
 		$ycen = $center[1];
 		$zcen = $center[2];
@@ -465,9 +465,10 @@ sub writeOutput {
 	  || die "Can't create file $outFilename ... exiting\n";
 
 	print OUTFILE "/*\n";
-	print OUTFILE "created with CCObj2opengl.pl\n\n";
-
+	print OUTFILE "created with CCObj2opengl.pl\n";
+	print OUTFILE "CCObj2opengl   : https://github.com/ccworld1000/CCObj2opengl\n\n";
 	# some statistics
+
 	print OUTFILE "source file    : $inFilename\n";
 	print OUTFILE "vertices       : $numVerts\n";
 	print OUTFILE "faces          : $numFaces\n";
