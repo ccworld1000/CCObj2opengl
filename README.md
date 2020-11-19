@@ -1,6 +1,6 @@
-# CCObj2opengl
+# [CCObj2opengl](https://github.com/ccworld1000/CCObj2opengl)
 
-script to convert 3D models of OBJ files to C/C++ float arrays (vertices, faces, texture) compatible with OpenGL ES glDrawArrays compatible with iPhone/iPad 
+script to convert 3D models of OBJ files to OC/C/C++ float arrays (vertices, faces, texture) compatible with OpenGL ES glDrawArrays compatible with iPhone/iPad/macOS
 
 ### CCObj2opengl come frome obj2opengl
 
