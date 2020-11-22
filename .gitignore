@@ -40,3 +40,6 @@ lib/.precomp
 
 *.c
 *.h
+
+.DS_Store
+CCCircularBuilding*

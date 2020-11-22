@@ -45,3 +45,10 @@ CC #
 
 ![CCSphere2.png](https://raw.github.com/ccworld1000/CCObj2opengl/main/CCSphere2.png)
 
+### Test OBJ file run iPhone Device Effects
+
+![IMG_1763.JPG](https://raw.github.com/ccworld1000/CCObj2opengl/main/IMG_1763.JPG)
+
+![IMG_1764.JPG](https://raw.github.com/ccworld1000/CCObj2opengl/main/IMG_1764.JPG)
+
+![IMG_1767.JPG](https://raw.github.com/ccworld1000/CCObj2opengl/main/IMG_1767.JPG)
